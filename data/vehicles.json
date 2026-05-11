@@ -1,0 +1,251 @@
+[
+  {
+    "id": 1,
+    "brand": "Ford",
+    "model": "Ranger Raptor",
+    "year": 2025,
+    "category": "Pickup",
+    "engine": {
+      "type": "V6 3.0L Bi-Turbo",
+      "horsepowerCv": 397,
+      "torqueNm": 583,
+      "transmission": "AT 10 velocidades",
+      "traction": "4WD"
+    },
+    "performance": {
+      "zeroToHundredS": 5.8,
+      "topSpeedKmh": 180
+    },
+    "consumption": {
+      "cityKmL": 6.5,
+      "highwayKmL": 8.9
+    },
+    "features": {
+      "driveModes": [
+        "Normal",
+        "Sport",
+        "Lama",
+        "Areia",
+        "Baja"
+      ],
+      "headlights": "Matrix LED"
+    },
+    "priceBrl": 499000,
+    "rating": 4.9
+  },
+  {
+    "id": 2,
+    "brand": "Toyota",
+    "model": "Hilux GR-S",
+    "year": 2025,
+    "category": "Pickup",
+    "engine": {
+      "type": "2.8 Turbo Diesel",
+      "horsepowerCv": 224,
+      "torqueNm": 550,
+      "transmission": "AT 6 velocidades",
+      "traction": "4x4"
+    },
+    "performance": {
+      "zeroToHundredS": 9.8,
+      "topSpeedKmh": 180
+    },
+    "consumption": {
+      "cityKmL": 9.2,
+      "highwayKmL": 11.3
+    },
+    "priceBrl": 372000,
+    "rating": 4.6
+  },
+  {
+    "id": 3,
+    "brand": "Chevrolet",
+    "model": "S10 High Country",
+    "year": 2025,
+    "category": "Pickup",
+    "engine": {
+      "type": "2.8 Turbo Diesel",
+      "horsepowerCv": 207,
+      "torqueNm": 510,
+      "transmission": "AT 8 velocidades",
+      "traction": "4x4"
+    },
+    "performance": {
+      "zeroToHundredS": 10.4,
+      "topSpeedKmh": 175
+    },
+    "consumption": {
+      "cityKmL": 8.8,
+      "highwayKmL": 10.5
+    },
+    "priceBrl": 325000,
+    "rating": 4.4
+  },
+  {
+    "id": 4,
+    "brand": "Volkswagen",
+    "model": "Amarok V6",
+    "year": 2025,
+    "category": "Pickup",
+    "engine": {
+      "type": "V6 3.0 Turbo Diesel",
+      "horsepowerCv": 258,
+      "torqueNm": 580,
+      "transmission": "AT 8 velocidades",
+      "traction": "4Motion"
+    },
+    "performance": {
+      "zeroToHundredS": 8.0,
+      "topSpeedKmh": 207
+    },
+    "consumption": {
+      "cityKmL": 8.4,
+      "highwayKmL": 10.2
+    },
+    "priceBrl": 354000,
+    "rating": 4.5
+  },
+  {
+    "id": 5,
+    "brand": "RAM",
+    "model": "Rampage R/T",
+    "year": 2025,
+    "category": "Pickup",
+    "engine": {
+      "type": "2.0 Hurricane Turbo",
+      "horsepowerCv": 272,
+      "torqueNm": 400,
+      "transmission": "AT 9 velocidades",
+      "traction": "AWD"
+    },
+    "performance": {
+      "zeroToHundredS": 6.9,
+      "topSpeedKmh": 220
+    },
+    "consumption": {
+      "cityKmL": 7.6,
+      "highwayKmL": 9.7
+    },
+    "priceBrl": 285000,
+    "rating": 4.7
+  },
+  {
+    "id": 6,
+    "brand": "Jeep",
+    "model": "Compass Blackhawk",
+    "year": 2025,
+    "category": "SUV",
+    "engine": {
+      "type": "2.0 Hurricane Turbo",
+      "horsepowerCv": 272,
+      "torqueNm": 400,
+      "transmission": "AT 9 velocidades",
+      "traction": "4x4"
+    },
+    "performance": {
+      "zeroToHundredS": 6.3,
+      "topSpeedKmh": 228
+    },
+    "consumption": {
+      "cityKmL": 8.1,
+      "highwayKmL": 10.4
+    },
+    "priceBrl": 279000,
+    "rating": 4.6
+  },
+  {
+    "id": 7,
+    "brand": "BMW",
+    "model": "X5 M Competition",
+    "year": 2025,
+    "category": "SUV",
+    "engine": {
+      "type": "V8 4.4 Bi-Turbo",
+      "horsepowerCv": 625,
+      "torqueNm": 750,
+      "transmission": "AT 8 velocidades",
+      "traction": "xDrive AWD"
+    },
+    "performance": {
+      "zeroToHundredS": 3.9,
+      "topSpeedKmh": 250
+    },
+    "consumption": {
+      "cityKmL": 5.5,
+      "highwayKmL": 7.2
+    },
+    "priceBrl": 1200000,
+    "rating": 4.9
+  },
+  {
+    "id": 8,
+    "brand": "Porsche",
+    "model": "911 Carrera",
+    "year": 2025,
+    "category": "Sports",
+    "engine": {
+      "type": "3.0 Boxer Bi-Turbo",
+      "horsepowerCv": 394,
+      "torqueNm": 450,
+      "transmission": "PDK 8 velocidades",
+      "traction": "RWD"
+    },
+    "performance": {
+      "zeroToHundredS": 4.1,
+      "topSpeedKmh": 294
+    },
+    "consumption": {
+      "cityKmL": 7.1,
+      "highwayKmL": 9.5
+    },
+    "priceBrl": 930000,
+    "rating": 5.0
+  },
+  {
+    "id": 9,
+    "brand": "Tesla",
+    "model": "Model Y Performance",
+    "year": 2025,
+    "category": "Electric SUV",
+    "engine": {
+      "type": "Dual Electric Motor",
+      "horsepowerCv": 534,
+      "torqueNm": 660,
+      "transmission": "Single Speed",
+      "traction": "AWD"
+    },
+    "performance": {
+      "zeroToHundredS": 3.7,
+      "topSpeedKmh": 250
+    },
+    "consumption": {
+      "rangeKm": 514
+    },
+    "priceBrl": 490000,
+    "rating": 4.8
+  },
+  {
+    "id": 10,
+    "brand": "Audi",
+    "model": "RS6 Avant",
+    "year": 2025,
+    "category": "Sport Wagon",
+    "engine": {
+      "type": "V8 4.0 Bi-Turbo",
+      "horsepowerCv": 630,
+      "torqueNm": 850,
+      "transmission": "AT 8 velocidades",
+      "traction": "Quattro AWD"
+    },
+    "performance": {
+      "zeroToHundredS": 3.4,
+      "topSpeedKmh": 280
+    },
+    "consumption": {
+      "cityKmL": 5.9,
+      "highwayKmL": 7.8
+    },
+    "priceBrl": 1350000,
+    "rating": 4.9
+  }
+]
