@@ -56,3 +56,11 @@ Assim que o servidor estiver rodando, você pode pressionar as seguintes teclas 
 - **`src/config/`**: Configuração de integrações externas (configuração do Firebase).
 - **`store/`**: Configuração do gerenciamento de estado global (`compareStore.ts`).
 - **`types/`**: Interfaces e tipos TypeScript.
+
+## Integrantes
+Joao Victor Oliveira dos Santos - RM557948
+Matheus Alcântara Estevão - RM558193
+Nicolle Pellegrino Jelinski - RM558610
+Pedro Pereira dos Santos - RM552047
+Eric Segawa Montagner- RM558224
+
